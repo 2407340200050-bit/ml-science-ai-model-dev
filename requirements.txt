@@ -1,0 +1,24 @@
+# Core Python utilitie
+numpy
+pandas
+scipy
+# Machine Learning
+scikit-learn
+# Deep Learning (choose one or both)
+torch
+torchvision
+tensorflow
+keras
+# Visualization
+matplotlib
+seaborn
+#Jupyter & notebooks
+jupyter
+notebook 
+# Experiment tracking
+configs
+mlflow
+hydra-core
+# Optional: performance
+tqdm
+joblib
